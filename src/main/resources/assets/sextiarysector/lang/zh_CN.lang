@@ -21,6 +21,10 @@ tile.ss.big_oak_wood_plate.name=深色橡树木板
 tile.ss.iron_plate.name=铁板
 tile.ss.gold_plate.name=金板
 
+tile.ss.copper_plate.name=铜板
+tile.ss.zinc_plate.name=锌板
+tile.ss.silver_plate.name=银板
+
 tile.ss.hole.name=坑田
 tile.ss.farmland.name=农田
 tile.ss.paddy.name=稻田
@@ -41,7 +45,13 @@ tile.ss.chunk_loader.name=时空载入器
 
 tile.ss.figure.name=成就台
 
+
+
+tile.ss.leaf_block.name=叶块
+
 tile.ss.trap.name=陷阱
+
+tile.ss.leaf_bed.name=叶床
 
 tile.ss.drinking_water.name=饮用水
 tile.ss.hot_springs.name=温泉水
@@ -60,6 +70,8 @@ tile.ss.orichalcum_ore.name=山铜矿石
 tile.ss.coal_large_ore.name=大型煤矿石
 tile.ss.iron_large_ore.name=大型铁矿石
 tile.ss.gold_large_ore.name=大型金矿石
+
+tile.ss.silver_large_ore.name=大型锌矿石
 
 tile.ss.copper_block.name=铜方块
 tile.ss.zinc_block.name=锌方块
@@ -179,6 +191,7 @@ item.ss.ninja_gf_storage.name=忍者GF存储器
 item.ss.orichalcum_gf_storage.name=山铜GF存储器
 
 item.ss.hammer.name=锤子
+item.ss.iron_spanner.name=铁扳手
 item.ss.color_spray.name=彩色喷雾
 
 item.ss.calendar.name=日历
@@ -188,7 +201,10 @@ item.ss.season_stone_summer.name=季节之石 -夏季-
 item.ss.season_stone_autumn.name=季节之石 -秋季-
 item.ss.season_stone_winter.name=季节之石 -冬季-
 
+item.ss.leaf_bed.name=叶床
 
+
+item.ss.leaf.name=叶子
 
 item.ss.dust_waterlily.name=睡莲粉末
 
@@ -204,6 +220,7 @@ item.ss.diamond_dust.name=钻石粉
 
 item.ss.copper_dust.name=铜粉
 item.ss.zinc_dust.name=锌粉
+item.ss.silver_dust.name=银粉
 
 item.ss.mithril_dust.name=秘银粉
 
@@ -215,6 +232,8 @@ item.ss.silver_nugget.name=银粒
 
 item.ss.steel_nugget.name=钢粒
 item.ss.ninja_nugget.name=忍者粒
+
+item.ss.obsidian_nugget.name=黑曜石粒
 
 
 item.ss.steel_ingot.name=钢锭
@@ -355,6 +374,8 @@ item.ss.rice.name=稻米
 item.ss.shiitake.name=香菇
 
 
+item.ss.squid_sashimi.name=鱿鱼刺身
+
 item.ss.white_rice.name=大米
 
 item.ss.salt.name=盐
@@ -396,6 +417,7 @@ item.ss.defense_unit.name=防御单元
 item.ss.attack_rust_unit.name=生锈攻击单元
 item.ss.defense_rust_unit.name=生锈防御单元
 item.ss.jump_unit.name=跳跃单元
+item.ss.bed_monster_unit.name=睡眠单元
 item.ss.pickaxe_unit.name=采掘单元
 
 item.ss.debug_unit.name=调试单元
@@ -784,3 +806,4 @@ nei.ss.time_machine=时光机配方
 
 nei.ss.fertilizer_farmland=农田作物突变
 nei.ss.fertilizer_paddy=稻田作物突变
+
